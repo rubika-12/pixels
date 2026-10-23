@@ -162,4 +162,4 @@ StoreOrSell/
 - **Zero External Dead Weight**: Self-contained SVG icons, clean build, zero console errors, full mobile responsiveness.
 
 ---
-*Created by **Pixel Punks** (Vijanthar M C, Rohith L, Rubika Devi P)*..
+*Created by **Pixel Punks** (Vijanthar M C, Rohith L, Rubika Devi P)*...
