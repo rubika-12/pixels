@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <circle cx="24" cy="24" r="22" fill="#1F4D2B"/>
+  <!-- Tomato body -->
+  <circle cx="21" cy="26" r="12" fill="#D8432B"/>
+  <circle cx="27" cy="26" r="12" fill="#E45137"/>
+  <!-- Leaf crown -->
+  <path d="M24 14C24 14 26 8 32 8C32 12 28 15 24 16C20 15 16 12 16 8C22 8 24 14 24 14Z" fill="#2E7D45"/>
+  <path d="M24 15V19" stroke="#1F4D2B" stroke-width="2" stroke-linecap="round"/>
+  <!-- Calyx -->
+  <path d="M21 16L18 19M27 16L30 19" stroke="#437F4F" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Shine -->
+  <ellipse cx="18" cy="22" rx="3" ry="1.5" transform="rotate(-30 18 22)" fill="white" fill-opacity="0.4"/>
+</svg>
