@@ -22,19 +22,17 @@ Every season, Indian farmers and aggregators holding tomatoes, onions, and peris
    - 3% risk threshold filter to prevent risky holding when profit is marginal.
    - **Exact Benchmark Demo**: 1,000 kg Tomatoes, sell now at ₹18/kg = ₹18,000, vs hold 5 days in cold storage with 12% spoilage at ₹24/kg minus ₹1,500 storage = **₹19,620** (**HOLD** with **+₹1,620** net gain).
 
-2. **Judges' Auto-Pilot Demo Mode (`⚡ Judges Demo`)**:
-   - Single-click in the navigation bar automatically populates the 1,000 kg Tomato scenario, smoothly navigates to the advisor, displays animated analysis, renders Recharts graphs, and fires celebration confetti.
 
-3. **Rich Visual Analytics**:
+2. **Rich Visual Analytics**:
    - **Shelf-Life Gauge**: Radial circular SVG meter tracking remaining usable days in prime condition (Green / Amber / Red).
    - **Price Trend Chart**: Dual-series Recharts graph plotting verified 7-day history with 5-day projected momentum and peak sell marker.
    - **Net Value Curve**: Bar chart revealing how waiting past the peak causes net cash in pocket to decline rapidly due to rot and storage tariffs.
    - **Multi-Factor Breakdown**: Expandable progress meters for storage protection, freshness index, price momentum, and spoilage resistance.
 
-4. **Bilingual Support (English & Tamil / தமிழ்)**:
+3. **Bilingual Support (English & Tamil / தமிழ்)**:
    - Instant toggle for English and Tamil localization across all metrics, labels, explanations, and advice.
 
-5. **Export & Sharing**:
+4. **Export & Sharing**:
    - **Printable Slip Modal (`window.print()`)**: Generates an official advisory slip for physical printing or PDF saving.
    - **Pre-formatted WhatsApp Dispatch**: 1-click share with emoji summary and formatted calculations ready to message farm clusters.
 
@@ -155,11 +153,6 @@ StoreOrSell/
 
 ---
 
-## 🏆 Hackathon Winning Polish
-- **Count-Up Numbers & Indian Rupee Formatting**: Formatted with standard Indian commas (`₹19,620`, `₹1.5L`).
-- **Interactive Confetti Celebration**: Canvas particle celebration triggered whenever a HOLD recommendation produces notable net gains.
-- **Judges Demo Mode**: Immediate evaluation in under 15 seconds without tedious manual typing.
-- **Zero External Dead Weight**: Self-contained SVG icons, clean build, zero console errors, full mobile responsiveness.
 
 ---
 *Created by **Pixel Punks** (Vijanthar M C, Rohith L, Rubika Devi P)*...
